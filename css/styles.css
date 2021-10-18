@@ -2,10 +2,29 @@ h1 {
   color: #D7BDB8;
   text-align:center;
   font-family: courier;
-  font-size; 60px
-
+  font-size: 60px;
 }
 
 h2 {color: #928684;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
 }
 
+h3 {color: #D7BDB8;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {color: #E3DADA;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+ul{ color: #FFD1D1;
+  font-family: 'Courier New', Courier, monospace;
+}
+ol{ color: #FFD1D1;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {background-color: #107586;
+}
