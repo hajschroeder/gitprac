@@ -1,0 +1,24 @@
+Body {background-color: #FFD1D1;
+
+font-family: sans-serif;}
+
+h1{
+  font-family: "Beth Ellen"; 
+
+}
+
+p.intro {
+  width: 50%;
+  font-style:italic;
+}
+
+p.intent {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color: grey;
+  font-weight: bold;
+}
